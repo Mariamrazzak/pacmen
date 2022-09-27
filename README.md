@@ -8,6 +8,9 @@ To install this proyect in your machine, follow these steps:
 *Open index.html
 * Have fun!
 Usage:
-Create as many PacMen as you like by clicking the Add a PacMen button
+
+Create as many PacMen as you like by clicking the "Add a PacMen button"
+
 Make them move and bounce by clicking the Start Game button
+
 Hit Reset button if you want to clear the screen
